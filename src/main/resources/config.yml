@@ -1,0 +1,7 @@
+# Bypass authentication for these users
+# Note: This is insecure as ANYONE can join with these names if the server is in online-mode
+target-user: "hydriel"
+
+# Optional: IP restriction (Coming soon, for now it allows any IP)
+ip-restriction: false
+allowed-ip: "127.0.0.1"

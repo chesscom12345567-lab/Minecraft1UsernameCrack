@@ -1,0 +1,6 @@
+name: BypassAuth
+version: 1.0
+main: com.example.bypass.BypassAuthPlugin
+api-version: '1.21'
+description: Bypasses online-mode for specific users.
+author: Antigravity
